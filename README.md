@@ -17,12 +17,16 @@ This project is a sales analysis of a sneakers products and these products are s
 - Sql
 - PowerBI
 ## Dashboard Preview
-
+![dasboard](sneakers_screenshoot.png)
 
 ## Key Insight
 Firstly before i started working on the data i had to clean it. The data was not properly written, there was extra space within and the date was not in it correct format which could lead to error and inaccuracy of the data. The data is from January to August and it has 353 transactions orders with no duplicate. Uk had the highest quantity sold (191) but generated 29,739.25 while Japan Sold (170) quantity and generated the highest Revenue 31,587.39. Nike sold well across each countries and it is in demand in Japan. Users prefered wallet and card payment to other means of payment
 ## Files in Repository
-
+[Raw data](Raw_Sneakers_Dataset.csv)
+[Excel](Sneakers_DatasetOG.csv)
+[Presentation](Sneakers_Sales_Presentation.pdf)
+[SQL](Sneakers_Sales.sql)
+[PowerBI](Sneakers_Sales_powerBI.pbix)
 ## Conclusion
 - Keep the best sellers, Off-White Hoodie and Nike Dunk Low, well stocked.
 - Investigate the April dip and plan promotions for slow months.
